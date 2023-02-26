@@ -5,6 +5,4 @@ I love Information Technology
 I come from VietNam
 
 
-- 🔭 I’m currently working, learning develop Website SPA
-
 
